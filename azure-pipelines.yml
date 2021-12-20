@@ -111,7 +111,7 @@ stages:
                 [
                   {
                     "name": "LeaderboardFunctionUrl",
-                    "value": "https://tailspin-space-game-leaderboard-11836.azurewebsites.net",
+                    "value": "https://tailspin-space-game-leaderboard-11836.azurewebsites.net/api/LeaderboardFunction",
                     "slotSetting": false
                   }
                 ]
